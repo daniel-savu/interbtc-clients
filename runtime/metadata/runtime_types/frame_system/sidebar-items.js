@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Phase",""],["RawOrigin",""]],"mod":[["extensions",""],["limits",""],["pallet",""]],"struct":[["AccountInfo",""],["EventRecord",""],["LastRuntimeUpgradeInfo",""]]});
